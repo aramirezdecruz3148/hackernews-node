@@ -1,0 +1,12 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
